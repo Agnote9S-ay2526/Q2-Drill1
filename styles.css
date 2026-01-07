@@ -1,0 +1,16 @@
+body{
+    background-image: url(GRADIENT\ BG\ IMG.jpg);
+    background-size: cover;
+     font-family: "Sansation", sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+div {
+    background-color: aliceblue;
+    display: inline-block;
+    margin-top: 5%;
+
+}
